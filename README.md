@@ -28,7 +28,7 @@ The Django URL Shortener is a web application that allows users to shorten long 
 
 ### Create a New Shortened Link
 
-- Endpoint: POST [http://localhost:8000links/](http://localhost:8000/links/)
+- Endpoint: POST [http://localhost:8000/links/](http://localhost:8000/links/)
 - Instructions:
   - Send a JSON request with the `links` field containing the original URL.
 - Response:
